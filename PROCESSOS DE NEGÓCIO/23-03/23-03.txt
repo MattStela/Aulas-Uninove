@@ -1,0 +1,6 @@
+Classificação dos processos de negócio
+
+- processo primário - processo inicial ligado a missão da empresa
+- processo de suporte - pela visão do cliente, é o processo no qual o cliente não é diretamente afetado, como a interrupção temporária da produção de veículos.
+- processo de gerenciamento - são processos que gerenciam
+
