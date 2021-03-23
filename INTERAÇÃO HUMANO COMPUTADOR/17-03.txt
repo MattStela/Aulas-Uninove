@@ -1,0 +1,59 @@
+Usabilidade é um termo usado para definir a facilidade com que
+as pessoas podem empregar uma ferramenta ou objeto a fim de
+realizar uma tarefa específica e importante. A usabilidade pode
+também se referir aos métodos de mensuração da usabilidade e ao
+estudo dos princípios por trás da eficiência percebida de um objeto
+
+usabilidade = aceitabilidade
+
+slogans de usabilidade (slogans de Nielsen)
+"Sua melhor tentativa não é boa o suficiente"
+"O usuário está sempre certo"
+"O usuário não está sempre certo"
+"Usuário não é designer"
+"Desiner não é usuário"
+"Menos é mais"
+"A ajuda não ajuda"
+
+Os 5 atributos de usabilidade de Nielsen
+- Learnability (fácil de aprender)
+- Eficiência
+- Memorability (fácil de lembrar)
+- Tolerância a erros
+- Satisfação subjetiva
+
+IHC - INTERAÇÃO HUMANO COMPUTADOR
+IHM - INTERFACE HOMEM MÁQUINA
+
+IHC != IHM
+
+USABILIDADE na norma ISO 9241:
+Capacidade que um sistema interativo oferece
+ao seu usuário, em determinado contexto de operação
+
+eficaz = atingir o objetivo con forme o esperado
+eficiente atingir o objetivo com o menor gasto de recursos possíveis
+efetivo = atingir mais do que o objetivo com o menor gasto de
+recursos possíveis
+
+Usuário: aquele que realiza a interação com o sistema
+Tarefa: o que é realizado pelo usuário
+Interface: É quem permite a interação entre o usuário e a tarefa
+Ambiente: É o local físico onde o usuário, a tarefa e a interface
+estão inseridos
+
+ergonomia dá origem a usabilidade
+
+As 10 heurísticas de Nielsen
+
+1. Visibilidade de qual estado estamos no sistema
+2. Correspondência entre o sistema e o mundo real
+3. Liberdade de controle fácil pro usuário
+4. Consistência e padrões
+5. Prevenções de erros
+6. Reconhecimento em vez de memorização
+7. Flexibilidade e eficiência de uso
+8. Estética e design minimalista
+9. Ajude os usuários a reconhecerem, diagnosticarem
+e recuperarem-se de erros
+10. Ajuda e documentação

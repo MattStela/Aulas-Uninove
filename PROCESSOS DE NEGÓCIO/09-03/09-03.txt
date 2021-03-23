@@ -1,0 +1,22 @@
+workflow - fluxo de trabalho
+sequência do que deve ser executado e em ordem
+
+BPM - Business Process Management
+
+Atividade:
+1. Qual o objetivo do processo?
+concluir o agendamento da manutenção veicular com o cliente
+
+2. Quem são os participantes do processo?
+Cliente e Atendente
+
+3. Descreva os passos do processo, seguindo a sequência do fluxo apresentada
+no modelo.
+Primeiramente o cliente liga, dando início ao processo, informando ou não os dados do veículo para o atendente, que cadastra no sistema, verifica a disponibilidade de horário, informa os horários disponíveis, informando ao cliente, que escolhe um horário, confirma e agenda com o atendente, concluindo o processo.
+
+4. Relacione os símbolos BPM utilizados no modelo e indique a quantidade
+encontrada de cada um.
+
+O círculo indica início e fim do processo.
+Os retângulos indicam processos a serem cumpridos para o objetivo final ser concluído.
+O losângo indica processo decisório. Caso negativo, encerra o processo.

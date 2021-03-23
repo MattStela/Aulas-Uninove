@@ -1,0 +1,16 @@
+Scrum master - eu
+backlog - tarefas divididas
+
+Front-end(Desenvolver layout): 5
+  escopo do HTML (componentes): Elegância
+  CSS (botar em prática somente quando o HTML estiver feito,
+vai ficar parado no início, dependendo das entregas do HTML): joão
+
+  fluxo de dados (scripts - organizar os dados vindos do
+back-end e colocar na página)
+    vuex (2)
+    router(rotas): 
+
+Back-end(zanad, Dan): 4
+  Banco de dados(MongoDB, AWS ou qualquer outro):
+  API REST(conexão entre o front e back):

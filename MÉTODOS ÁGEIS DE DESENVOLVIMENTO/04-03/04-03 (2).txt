@@ -1,0 +1,12 @@
+métodos ágeis são uma alternativa a gestão tradicional de projetos
+no básico, são conjuntos de práticas eficazes que se destinam a permitir
+a entrega rápida e de alta qualidade do produto
+
+Kanban
+Scrum
+Lean
+DSDM
+Extreme Programming
+Adaptative Software Development
+Feature Driven Development
+Scrumban

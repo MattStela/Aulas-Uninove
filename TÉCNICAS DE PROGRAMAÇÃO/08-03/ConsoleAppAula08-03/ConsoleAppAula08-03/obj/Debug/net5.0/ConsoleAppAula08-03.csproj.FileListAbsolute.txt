@@ -1,0 +1,16 @@
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\bin\Debug\net5.0\ConsoleAppAula08-03.exe
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\bin\Debug\net5.0\ConsoleAppAula08-03.deps.json
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\bin\Debug\net5.0\ConsoleAppAula08-03.runtimeconfig.json
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\bin\Debug\net5.0\ConsoleAppAula08-03.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\bin\Debug\net5.0\ConsoleAppAula08-03.dll
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\bin\Debug\net5.0\ref\ConsoleAppAula08-03.dll
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\bin\Debug\net5.0\ConsoleAppAula08-03.pdb
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.AssemblyInfo.cs
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.dll
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ref\ConsoleAppAula08-03.dll
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.pdb
+C:\Users\mathe\Desktop\TADS 3º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\08-03\ConsoleAppAula08-03\ConsoleAppAula08-03\obj\Debug\net5.0\ConsoleAppAula08-03.genruntimeconfig.cache

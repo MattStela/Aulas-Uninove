@@ -1,0 +1,13 @@
+recomendações de filmes:
+documentário: a guerra dos navegadores
+documentario: a verdadeira guerra da internet
+
+endereços IP e DNS | Ciência da Computação | Khan Academy
+https://www.youtube.com/watch?v=SxhgUAe-ZaU
+HTTP e HTML | Ciência da Computação | Khan Academy
+https://www.youtube.com/watch?v=P1hxqpvv2ZA
+Daniel Ferreira De Barros Jr09:51
+Packet, roteadores e confiabilidade | Ciência da Computação | Khan Academy
+https://www.youtube.com/watch?v=RciMQpVBttc
+Criptografia e chaves públicas | Ciência da Computação | Khan Academy
+https://www.youtube.com/watch?v=8JEC-QKEGrw

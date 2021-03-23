@@ -1,0 +1,13 @@
+ERP - software empresarial que faz várias coisas (TOTVS, SAP)
+
+Como funciona o HTTP E DNS
+url - localizador uniforme de recursos
+
+você digita o endereço no navegador que conecta no servidor, requisitando informações em uma linguagem chamada HTTP (transferecia de hipertexto)por solicitações GET
+
+livros do site oreilli (grátis pela uninove)
+https://learning.oreilly.com/library/view/head-first-c/9781491976692/
+https://learning.oreilly.com/library/view/c-6-for/9780134596396/
+https://learning.oreilly.com/library/view/sams-teach-yourself/9780135167069/
+https://learning.oreilly.com/library/view/the-html-and/9781838824532/
+https://learning.oreilly.com/videos/python-fundamentals/9780135917411/

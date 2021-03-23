@@ -1,0 +1,12 @@
+Design é a estrutura de um serviço, produto, entre várias outras
+modalidades, que está ligado inteiramente a experiência de usuário ou 
+cliente
+
+quatro princípios de design para o TI:
+Visibilidade e affordance;
+bom modelo conceitual;
+bons mapeamentos;
+feedback;
+
+https://www.projetodraft.com/design-e-a-capacidade-de-resolver-um-problema-e-mais-que-isso-gerar-encantamento/#:~:text=Lifehackers-,Design%20%C3%A9%20a%20capacidade%20de%20resolver%20um%20problema,mais%20que%20isso%2C%20gerar%20encantamento&text=Mario%20Fioretti%20conta%2C%20em%20livro,trabalhando%20com%20design%20de%20produtos.&text=Cena%201%3A%20Uma%20mulher%20entra,de%20maior%20movimento%20do%20estabelecimento
+

@@ -1,0 +1,17 @@
+LISTA DE EXERCÍCIOS
+
+1) Faça um programa que force o usuário a digitar um número ímpar. Para saber se o número é impar utilizando o operador % (mod). O programa deve ficar exibindo a mensagem "Digite um número ímpar para sair!";
+
+2) Faça um programa no qual o usuário digite N números. Quando ele digitar o número 0 (ZERO) o programa deve finalizar e presentar qual foi o maior número digitado por ele.
+Exemplo: 7 8 6 4 9 1 0
+O maior número digitado foi 9.
+
+3) Faça um programa que exiba os números pares em um intervalo definido pelo usuário. Exemplo:
+Inicio: 7
+Fim: 15
+Pares: 8, 10, 12, 14
+
+4) Faça um programa que informe se um número é primo ou não.
+
+5) Faça um programa no qual o usuário informe seu peso e a altura para calcular o IMC. Enquanto o IMC não estiver no peso ideal o programa deve continuar pedindo os dados de peso e altura.
+

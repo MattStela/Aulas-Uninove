@@ -1,0 +1,72 @@
+AULA DE SCRUM
+
+-> valores são regras individuais que orientam, como bússolas internas as relações, as decisões e as ações.
+
+Quatro valores do manifesto ágil:
+- Individuos e interações
+- Software em funcionamento
+- Responder a mudanças
+- Colaboração com o cliente
+
+-> princípios são pressupostos universais que definem regras essenciais que beneficiam um sistema maior que é a humanidade
+
+Doze princípios do manifesto ágil:
+- Satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado
+- Mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento
+- Entregar frequentemente software funcionando
+- Pessoas de negócio e desenvolvedores devem trabalhar em conjunto por todo o projeto
+- Construa projetos em torno de inbdividuos motivados
+- O método mais eficiente e eficaz de transmitir informaçõies é através de conversa face a face
+- Software funcionando é a medida primária de progresso
+- Os patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante
+- Continua atenção a excelência técnica e bom design
+- Simplicidade é essencial
+- As melhores arquiteturas, requisitos e design emergem de equipes auto-organizáveis
+- Em intervalos regulares, a equipe reflete sobre como se tornar mais efeicaz e então refina e ajusta seu comportamento de acordo
+==========================================================================
+
+SCRUM
+O Scrum é um framework estrutural para gestão de projetos baseado no
+empirismo, afirmando que o conhecimento vem de experiências anteriores
+e de decisões tomadas. Isso significa que é um framework iterativo e
+incremental, pois usa experiências anteriores para aperfeiçoar controle
+de riscos e decisões futuras.
+
+ADAPTABILIDADE
+tempo mínimo para a primeira entrega: 1 dia
+tempo máximo para a primeira entrega: 1 mês
+
+TRANSPARÊNCIA
+Tanto com a equipe (informações de coordenação e resultados parciais de
+trabalho, feedback) quanto com o cliente (visibilidade), colaboração e 
+articulação.
+
+FEEDBACK CONTÍNUO
+perguntar sempre ao cliente se é isso o que ele quer e se tem algo que
+necessita mudança
+
+MELHORIA CONTÍNUA
+
+ENTREGA DE VALOR
+Todo mês o cliente terá uma parte do sistema entregue, a princípio para
+validação que poderá ser uma entrega
+
+=======================================================================
+Atividade aplicada usando metodo ágeis e SCRUM
+a partir dos valores e principios do manifesto agil e as diretrizes do
+framework SCRUM, aplique os condeitos utilizando o projeto que será
+entregue no final do semestre.
+
+=======================================================================
+
+PAPÉIS DO TIME SCRUM
+
+Time de desenvolvimento
+Média de 3 a 9 devs
+
+Dono do produto
+Empresa, diretoria, cliente
+
+Scrum master
+Pessoa que domina as metodologias scrum, que monitora o andamento do
+processo e o desempenho das equipes (Facilitador)
