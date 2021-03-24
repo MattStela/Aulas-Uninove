@@ -1,0 +1,43 @@
+Ambiente é o local físico do usuário, a tarefa e a interface estão inseridos
+Interface é quem permite a interação entre o usuário e a tarefa
+Tarefa: é realizada pelo usuário / Objetivo do usuário.
+
+Ergonomia dá origem a usabilidade
+a Usabilidade faz com que os sistemas estejam adaptados a seus usuários e não o oposto.
+
+AS 10 HEURISTICAS DE NIELSEN
+1. VISIBILIDADE DO SISTEMA - A Interface deve informar ao usuário o que está acontecendo
+2. RELACIONAMENTO ENTRE A INTERFACE DO SISTEMA E O MUNDO REAL - Toda a comunicação do sistema precisa ser contextualizada ao usuário e ser coerente com o
+chamado modelo mental do usuário
+3. LIBERDADE E CONTROLE DO USUÁRIO - Permitir desfazer ou refazer uma ação no sistema e retornar ao ponto anterior, para quando estiver perdido ou em
+situações inesperadas
+4. CONSISTÊNCIA - Nunca identificar uma mesma ação com ícones ou palavras diferentes. Tratar coisas similares da mesma maneira, facilitando a identificação
+do usuário
+5. PREVENÇÃO DE ERROS - "Ainda melhor que uma boa mensagem de erro é um design cuidadoso que possa prevenir esses erros (Nielsen)"
+6. RECONHECIMENTO AO INVÉS DE LEMBRANÇAS - Evite acionar a memória do usuário o tempo inteiro, fazendo com que cada ação precise ser revista mentalmente
+antes de ser desempenhada. Permita que a interface ofereça ajuda e informações capazes de orientar as ações dos usuários
+7. FLEXIBILIDADE E EFICIÊNCIA DE USO - O sistema precisa ser fácil para usuários leigos, mas flexível o bastante poara se tornar ágil á usuários avançados.
+Essa flexibilidade pode ser conseguida com a permissão das teclas de atalhos, por exemplo.
+8. ESTÉTICA E DESIGN MINIMALISTA (MENOS É MAIS) - Evitar que os textos e o design fale mais que o usuário necessita saber. Os "diálogos" do sistema
+precisam ser simples, diretos e naturais, presentes nos momentos em que são necessários, somente.
+9. AJUDE OS USUÁRIOS A RECONHECER, DIAGNOSTICAR E SANAR ERROS - As mensagens de erro do sistema devem possuir uma redação simples e clara ao invés de
+intimidar o usuário com o erro. O sistema deve indicar uma saída construtiva ou possível solução.
+10. AJUDA E DOCUMENTAÇÃO (Ajuda não ajuda) - Um bom design deveria evitar ao máximo a necessidade de ajuda na utilização do sistema. Ainda assim, um bom
+conjunto de documentação e ajuda deve ser utilizado para orientar o usuário em caso de dúvida. Deve ser vísivel, facilmente acessada, e oferecer uma
+ferramenta de busca de ajuda.
+
+ERGONOMIA
+Design confortável
+Podemos dividir a ergonomia em três grandes grupos:
+Ergonomia física - refere-se a biomecânica
+Ergonomia cognitiva - refere-se aos processos mentais e aspectos relacionados a execução de atividades
+Ergonomia organizacional - Refere-se à otimização dos sistemas sociotécnicos da empresa
+
+Em design de interfaces e na IHC, os elementos são:
+Usuário: Características físicas e psicológicas, motivações, idade, treinamento, experiência, etc.
+Máquina: Equipamentos, instalações, mobiliário, ferramentas, etc.
+Ambiente físico: temperatura, ruído, vibrações, luzes, cores, gases, odores, etc.
+Informação: Comunicação entre os elementos do sistema.
+Organização: Horários, turnos, formação de equipes.
+Consequência do trabalho: Erros, acidentes, gastos energéticos, fadiga, estresse, etc.
+
