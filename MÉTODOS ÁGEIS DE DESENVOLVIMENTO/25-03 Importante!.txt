@@ -1,0 +1,65 @@
+o que faremos?
+O que não fizemos?
+o que estamos fazendo?
+(se perguntar a todo momento esses três pontos)
+
+=================================================
+Papel do dono do produto
+Responsabilidade
+- Entregar valor para os projetos
+- Criar a justificativa de negócio para os projetos
+- Confirmar benefícios para os stakeholders
+
+Aspectos do SCRUM - Justificativa de negócio
+- Business case mostra detalhes completos que mostra o porquê o projeto
+deve ser feito, incluindo custos, benefícios esperados e prazos.
+
+O que é determinante para a justificativa do projeto?
+
+Necessidade do negócio
+Benefícios do projeto
+Custo de oportunidade
+Riscos maiores
+Prazos do projeto
+Custos do projeto
+
+obs: Toda justificativa de negócio deve ser
+orientada a entrega de valor
+======================================================
+Técnicas básicas de justificativa de negócio (ROI)
+
+Return of Investment ou retorno de investimentos
+
+ROI = (Receita do projeto - custo do projeto)/Custo do projeto
+
+Exemplo:
+Custo: R$250.000,00
+Benefícios R$600.000,00
+
+ROI = (600.000 - 250.000)/250.000 = 1,4
+Portanto, o ROI é de 1,4 vezes o investimento (ou 140%) - 40% de lucro
+==========================================================
+Técnicas básicas de justificativa de negócio (VPL)
+
+Valor Presente líquido - É o valor total esperado da renda do projeto, menos
+o total do custo previsto, levando em conta o valor do dinehiro no tempo.
+
+Ex. básico:
+Custo do projeto: R$ 20.000,00
+Lucro (linha do tempo): mês 2 ao 6 - lucro R$10.000,00/mês <-> R$50.000,00
+Desconto bruto: Retorno R$30.000,00
+
+obs.: Só que na VPL tem que descontar a taxa de juros, desvalorização
+do dinheiro e outros riscos. Desta forma, se no final o valor resultar no
+custo do projeto ou mais (VPL), significa que não valerá a pena investir
+no projeto.
+
+Existem outros tipos de modelos como por exemplo a TIR
+(Taxa interna de retorno)
+===========================================================
+Análise SWOT - Ajuda a avaliar os pontos fortes e fracos, as oportunidades e
+as ameaças relacionadas a um projeto
+
+Joint Application Design (JAD) - Coleta de requisitos através de um workshop
+bem estruturado
+
