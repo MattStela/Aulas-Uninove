@@ -63,3 +63,16 @@ as ameaças relacionadas a um projeto
 Joint Application Design (JAD) - Coleta de requisitos através de um workshop
 bem estruturado
 
+Matriz GUT - Gravidade, Urgência e Tendência
+Cada elemento tem uma pontuação na tarefa
+
+exemplo:
+
+Problema	Gravidade	Urgencia	Tendencia	GXUXT			  CLASSIFICAÇÃO
+
+atraso na			 
+entrega		    5		    5		    5		5X5X5 = 125	      		1º	 
+de mercadorias
+
+Atraso na entrega
+do fornecedor	    5		    4		    4		5x4x4 = 80			2º
